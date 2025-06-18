@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";	
+padding: 30
+	px;
+ color: #B90C3F;
+}
+
+h2 {
+font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";	
+padding: 30
+	px;
+ color: #E99596;
+}
+
+
+
+body {
+	background-color: #E9C6C6;
+	}
